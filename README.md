@@ -1,4 +1,4 @@
-# Sistema de gerenciamento escolar
+# Sistema de gerenciamento escolar IFPI
 
 ## Integrantes do grupo:
 ### Felipe Lustosa Carvalho
