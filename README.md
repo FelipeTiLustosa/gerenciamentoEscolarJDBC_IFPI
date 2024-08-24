@@ -3,3 +3,6 @@
 ## Integrantes do grupo:
 ### Felipe Lustosa Carvalho
 ### Adielson
+<hr>
+
+## Imagem do projeto:
