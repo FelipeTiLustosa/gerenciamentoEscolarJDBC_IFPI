@@ -26,7 +26,7 @@ Below is a list of the system's features, organized in a table for better visual
 - **IDE**: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - **Database**: [MySQL](https://www.mysql.com/)
 - **Version Control**: [Git](https://git-scm.com/)
-- **Development Environment**: [Docker](https://www.docker.com/) (optional)
+- **Development Environment**: [Docker](https://www.docker.com/)
 
 ## 4. Links to Additional Resources
 
@@ -48,7 +48,7 @@ To set up and run the project locally, follow the steps below:
 ### 5.2. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/GerenciamentoEscolarIFPI.git
+git clone https://github.com/FelipeTiLustosa/gerenciamentoEscolarJDBC_IFPI.git
 cd GerenciamentoEscolarIFPI
 ```
 ### 5.3. Configure the Database
