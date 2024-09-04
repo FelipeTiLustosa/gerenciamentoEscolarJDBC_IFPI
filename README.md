@@ -98,8 +98,8 @@ GerenciamentoEscolarIFPI/
 ├── resources/
 │   └── db.properties                     # Database connection configuration file
 │
-├── lib/
-│   └── jdbc-driver.jar                   # JDBC driver for MySQL connection
+├── driver/
+│   └── mysql-connector-j-8.2.0.jar                   # JDBC driver for MySQL connection
 │
 ├── README.md                             # Project documentation file
 └── .gitignore                            # File to ignore unnecessary files in Git
