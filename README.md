@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-The School Management IFPI project is a Java-based system designed to manage information related to students, teachers, courses, enrollments, and grades. The system allows different types of users (students, teachers, and coordinators) to log in and access functionalities specific to their profile.
+The School Management IFPI project is a Java-based system designed to manage information related to students, teachers, courses, enrollments, and grades. The system allows different types of users (students, teachers, and coordinators) to log in and access functionalities specific to their profile. 
 
 The goal of this project is to provide an integrated platform to efficiently manage school processes, focusing on simplicity and usability.
 
